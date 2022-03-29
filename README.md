@@ -1,6 +1,9 @@
 ## Olá! eu sou Marcus Vinicius, estudante e futuro Dev
 - 🌱 Atualmente estou estudando Desenvolvimento Web na Trybe
 - 😄 Pronouns: ele/dele
+- ❤️ Sou apaixonado por tecnologia, e estou sempre buscando aprender coisas novas
+- 🕹️ Adoro jogos, principalmente online
+- 🇯🇵 Tbm sou aficionado pela cultura japonesa, culinária e animes 
 
 <div align="center">
   <a href="https://github.com/ViParis0">
