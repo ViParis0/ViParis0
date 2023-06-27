@@ -1,5 +1,5 @@
 ## Olá! eu sou Marcus Vinicius, desenvolvedor web
-- 🌱 Atualmente estou estudando Desenvolvimento Web na Trybe
+- 🌱 Formado em Desenvolvimento Web na Trybe
 - 😄 Pronome: ele/dele
 - ❤️ Sou apaixonado por tecnologia, e estou sempre buscando aprender coisas novas (Atualmente aprendendo Back-end)
 - 🕹️ Adoro jogos, principalmente online
